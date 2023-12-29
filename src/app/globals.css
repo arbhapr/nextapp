@@ -1,0 +1,18 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: var(--primary-font);
+}
+
+h1,
+h2,
+h3,
+p,
+ul,
+li {
+  font-family: var(--secondary-font);
+}
