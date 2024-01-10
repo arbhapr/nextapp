@@ -16,3 +16,7 @@ ul,
 li {
   font-family: var(--secondary-font);
 }
+
+.section {
+  padding: 100px 0;
+}
