@@ -13,7 +13,10 @@
     "next": "14.0.4",
     "react": "^18",
     "react-bootstrap": "^2.9.2",
-    "react-dom": "^18"
+    "react-dom": "^18",
+    "react-icons": "^5.0.1",
+    "react-reveal": "^1.2.2",
+    "sharp": "^0.33.1"
   },
   "devDependencies": {
     "eslint": "^8",
